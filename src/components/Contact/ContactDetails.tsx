@@ -26,6 +26,20 @@ const ContactDetails = () => {
               </div>
               
               <div>
+                <h4 className="mb-3 text-xl font-semibold text-dark dark:text-white">Visit Us</h4>
+                <a 
+                  href="https://share.google/VlLx5Y5Uyla6K3NMt" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-lg text-body-color hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
+                >
+                  Ashoka Mall, G4, Bund Garden Rd,<br />
+                  Sangamvadi, Pune,<br />
+                  Maharashtra 411001
+                </a>
+              </div>
+              
+              <div>
                 <h4 className="mb-3 text-xl font-semibold text-dark dark:text-white">Call Us</h4>
                 <a 
                   href="tel:+918698637796" 
