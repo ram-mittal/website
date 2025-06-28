@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://aahrbitx.in/sitemap.xml",
+    sitemap: "https://kaizen-marketing.vercel.app/sitemap.xml",
   };
 }

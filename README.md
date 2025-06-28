@@ -1,8 +1,8 @@
 
 
-## AahrbitX - Coming Soon Page
+# Kaizen Marketing Services
 
-Welcome to the official repository of **AahrbitX**. This "Coming Soon" page is designed to announce the launch of our website and give users a sneak peek into the innovative solutions we are developing. Stay tuned as we gear up to empower small-scale industries with advanced technology!
+Welcome to the official repository of **Kaizen Marketing Services**. This is the website for our full-service marketing agency, showcasing our services, team, and contact information. We help businesses grow through innovative marketing strategies and exceptional customer service.
 
 ## Features
 
@@ -11,9 +11,9 @@ Welcome to the official repository of **AahrbitX**. This "Coming Soon" page is d
 - Social media integration for easy connection
 - Clean and organized code for easy customization
 
-## Demo
+## Live Demo
 
-You can view the live version of the coming soon page [here](#). (Replace `#` with your live URL if available)
+You can view the live website [here](https://kaizen-marketing.vercel.app/).
 
 ---
 
@@ -43,13 +43,13 @@ Before getting started, ensure you have the following installed on your system:
    Open your terminal and clone this repository:
 
    ```bash
-   git clone https://github.com/abinjustinkumaravel/AahrbitX.git
+   git clone https://github.com/ram-mittal/website.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd AahrbitX
+   cd kaizen-marketing
    ```
 
 3. **Install Dependencies**
@@ -93,7 +93,7 @@ This will create an optimized production build in the `/build` directory, ready 
 ## Project Structure
 
 ```bash
-AahrbitX/
+kaizen-marketing-website/
 ├── src/
 │   ├── assets/
 │   ├── components/
@@ -138,4 +138,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or issues, feel free to reach out:
 
-- **Email**: support@aahrbitX.com
+- **Email**: maya2258@gmail.com
+- **Phone**: +91 86986 37796
+- **Address**: Ashoka Mall, G4, Bund Garden Rd, Sangamvadi, Pune, Maharashtra 411001

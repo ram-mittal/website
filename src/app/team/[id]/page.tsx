@@ -17,10 +17,10 @@ export async function generateMetadata({ params }: Props) {
   const { id } = await params;
   const author = Authors.find((author) => author.id === id);
   return {
-    title: `${author?.name || "Author"} | AahrbitX°`,
-    description: `${author?.name || "This author"} is a ${
-      author?.designation || "contributor"
-    } at AahrbitX°`,
+    title: `${author?.name || "Team Member"} | Kaizen`,
+    description: `${author?.name || "This team member"} is our ${
+      author?.designation || "valued team member"
+    } at Kaizen Marketing Services`,
   };
 }
 

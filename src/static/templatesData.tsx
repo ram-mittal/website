@@ -59,7 +59,7 @@ export const templateData: TemplateProps[] = [
     info: [],
     actions: {},
     full_description:
-      "The AahrbitX website template is a modern, responsive solution designed for businesses and startups aiming to establish a strong online presence. It features a clean layout with smooth animations, intuitive navigation, and strategically placed call-to-action elements. Built with contemporary web technologies, this template ensures fast loading times and seamless performance across devices. Its versatile design makes it suitable for various industries, including tech, marketing, and creative agencies. With customizable sections for services, portfolios, testimonials, and contact forms, the AahrbitX template provides a solid foundation for businesses to showcase their offerings and engage with their audience effectively",
+      "The Kaizen Marketing website template is a modern, responsive solution designed for marketing agencies and businesses aiming to establish a strong online presence. It features a clean layout with smooth animations, intuitive navigation, and strategically placed call-to-action elements. Built with contemporary web technologies, this template ensures fast loading times and seamless performance across devices. Its versatile design makes it suitable for various industries, with a focus on marketing services. With customizable sections for services, portfolios, testimonials, and contact forms, the Kaizen Marketing template provides a solid foundation for agencies to showcase their offerings and engage with their audience effectively",
     comingSoon: false,
   },
 ];
