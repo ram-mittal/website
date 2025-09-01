@@ -4,7 +4,7 @@ export const Authors: Author[] = [
   {
     name: "Mayank Pareek",
     id: "mayank-pareek",
-    image: "/images/team/mayank-pareek.svg",
+    image: "/images/team/mayank-pareek-new.jpg",
     designation: "Founder & CEO",
     external_link: "#",
     about: "With over a decade of experience in marketing and business development, Mayank has been instrumental in shaping Kaizen into a leading marketing agency. His visionary leadership and deep understanding of digital transformation have helped numerous brands achieve remarkable growth and establish strong market presence.",
